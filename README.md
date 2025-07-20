@@ -1,1 +1,1 @@
-A project for MeiGen-AI
+A readme for MeiGen-AI projects
